@@ -14,7 +14,7 @@
 - FFmpeg
 - NodeJS [nodesource.com](https://nodesource.com/)
 - Python 3.8+ or 3.7
-- [PyTgCallss](https://github.com/ITZ-ZAID/calls)
+- [PyTgCallss](https://github.com/Badshah57/calls)
 
 #
 
